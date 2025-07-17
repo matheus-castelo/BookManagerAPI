@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/APPLICATION.csproj": {}
+  },
+  "projects": {
+    "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/APPLICATION.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/APPLICATION.csproj",
+        "projectName": "APPLICATION",
+        "projectPath": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/APPLICATION.csproj",
+        "packagesPath": "/home/matheuscastelo/.nuget/packages/",
+        "outputPath": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/matheuscastelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/INFRA.csproj": {
+                "projectPath": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/INFRA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/INFRA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/INFRA.csproj",
+        "projectName": "INFRA",
+        "projectPath": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/INFRA.csproj",
+        "packagesPath": "/home/matheuscastelo/.nuget/packages/",
+        "outputPath": "/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/INFRA/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/matheuscastelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

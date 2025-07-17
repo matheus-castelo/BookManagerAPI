@@ -1,0 +1,15 @@
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/bin/Debug/net8.0/APPLICATION.deps.json
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/bin/Debug/net8.0/APPLICATION.dll
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/bin/Debug/net8.0/APPLICATION.pdb
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/bin/Debug/net8.0/INFRA.dll
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/bin/Debug/net8.0/INFRA.pdb
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.csproj.AssemblyReference.cache
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.AssemblyInfoInputs.cache
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.AssemblyInfo.cs
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.csproj.CoreCompileInputs.cache
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.csproj.CopyComplete
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.dll
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/refint/APPLICATION.dll
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/APPLICATION.pdb
+/home/matheuscastelo/RiderProjects/REFACTORY-BOOKMANAGER/APPLICATION/obj/Debug/net8.0/ref/APPLICATION.dll
